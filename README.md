@@ -4,7 +4,7 @@ Simple white theme for [alfred](http://www.alfredapp.com/)
 ![Absolute White - alfred theme](ss_absolutewhite.png)
 
 ## Install
-Download [Absolute White.alfredappearance]() by right clicking and run.  
+Download [Absolute White.alfredappearance](https://raw.githubusercontent.com/vwxyutarooo/alfred-absolute-white/master/Absolute%20White.alfredappearance) by right clicking and run.  
 You’ll need the Powerpack for custom themes.
 
 ## Alfred options
